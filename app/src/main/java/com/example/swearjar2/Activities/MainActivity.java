@@ -94,8 +94,6 @@ public class MainActivity extends AppCompatActivity implements ActionMode.Callba
         initInterstitial();
 
         Float elevation = 0.0f;
-//        Objects.requireNonNull(this.getSupportActionBar()).setDisplayHomeAsUpEnabled(true);
-//        this.getActionBar().setDisplayHomeAsUpEnabled(true);
         this.getSupportActionBar().setElevation(elevation);
 
         rARootLayout = findViewById(R.id.ch_root_layout);
