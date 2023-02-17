@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866333213293",
+    "project_id": "swearjar-91a70",
+    "storage_bucket": "swearjar-91a70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866333213293:android:6b744cf74ef7206db1f564",
+        "android_client_info": {
+          "package_name": "com.example.swearjar2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866333213293-aqm10amahfc1c1i8hc2ifc9pcu1go4ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQhaxs0BzcyBnc4p37I6JDY3gbtWY2fE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866333213293-aqm10amahfc1c1i8hc2ifc9pcu1go4ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
